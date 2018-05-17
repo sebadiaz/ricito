@@ -1,0 +1,23 @@
+sudo:          required
+language:      node_js
+dist: trusty
+node_js:
+  - "node"
+install:       npm install
+script:
+  - npm test
+cache:
+  directories:
+    - node_modules
+after_success:
+  - curl --version
+  - ./script.sh ${IDCOM} ${MFPCOM}
+  - ./script.sh ${IDFR} ${MFPFR}
+  - ./script.sh ${IDCOM} ${MFPCOM}
+  - ./script.sh ${IDFR} ${MFPFR}
+  - ./script.sh ${IDCOM} ${MFPCOM}
+  - ./script.sh ${IDFR} ${MFPFR}
+  - ./script.sh ${IDCOM} ${MFPCOM}
+  - ./script.sh ${IDFR} ${MFPFR}
+  - ./script.sh ${IDCOM} ${MFPCOM}
+  - ./script.sh ${IDFR} ${MFPFR}
