@@ -1,0 +1,4 @@
+# robots.txt a été généré par outils-seo.info
+User-agent: *
+Disallow:
+Sitemap: http://www.buissondiaz.com/sitemap.xml
