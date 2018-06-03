@@ -56,10 +56,10 @@
                     </li>-->
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#customers">Customers</a>
-            </li><!--
+            </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#features">Features</a>
-            </li>-->
+              <a class="nav-link js-scroll-trigger" href="#usecase">Use Cases</a>
+            </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
             </li>
@@ -472,7 +472,16 @@
 -->
       </div>
     </section>
-  
+    <section section class="text-center" id="usecase">
+          <div class="container">
+              <div class="row">
+                <div class="col-md-8 mx-auto">
+                  <h3 class="section-heading">Use Case: Sport Analysis</h3>
+          <iframe title="exemple 1 avec iframe" src="usecase1.html" width="90%" height="500">
+            <p>Your browser does not support iframes.</p>
+          </iframe>
+        </div></div></div>
+            <section>
     <footer>
       <div class="container">
         <p>&copy; Buisson Diaz Conseil 2018. All Rights Reserved.</p>
