@@ -477,7 +477,7 @@
               <div class="row">
                 <div class="col-md-8 mx-auto">
                   <h3 class="section-heading">Use Case: Sport Analysis</h3>
-          <iframe title="exemple 1 avec iframe" src="usecase1.html" width="90%" height="500">
+          <iframe title="exemple 1 avec iframe" src="https://sebadiaz.github.io/ricito/usecase1.html" width="90%" height="500">
             <p>Your browser does not support iframes.</p>
           </iframe>
         </div></div></div>
