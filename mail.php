@@ -1,4 +1,4 @@
-<?php
+<?php 
 if($_POST["message"]){
     
     $url = 'https://www.google.com/recaptcha/api/siteverify';
