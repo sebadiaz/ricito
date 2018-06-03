@@ -17,7 +17,7 @@ if($_POST["message"]){
 
         $to      = 'sebastien.diaz@gmail.com';
         $subject = '[Buisson Diaz Conseil] ';
-        $message = $_POST["message"].' '.$_POST["email"];
+        $message = $_POST["message"].' '.$_POST["email"]." ".var_dump($result);
         $headers = 'From: webmaster@buissondiaz.com' . "\r\n" .
             'Reply-To: webmaster@buissondiaz.com' . "\r\n" .
             'X-Mailer: PHP/' . phpversion();
