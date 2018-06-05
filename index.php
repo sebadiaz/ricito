@@ -11,21 +11,21 @@
     <title>Buisson Diaz Conseil</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="http://rawgit.com/sebadiaz/ricito/master/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://sebadiaz.github.io/ricito/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link rel="stylesheet" href="http://rawgit.com/sebadiaz/ricito/master/vendor/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://rawgit.com/sebadiaz/ricito/master/vendor/simple-line-icons/css/simple-line-icons.css">
+    <link rel="stylesheet" href="https://sebadiaz.github.io/ricito/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://sebadiaz.github.io/ricito/vendor/simple-line-icons/css/simple-line-icons.css">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
-    <LINK REL="SHORTCUT ICON" HREF="http://rawgit.com/sebadiaz/ricito/master/favicon.ico" />
+    <LINK REL="SHORTCUT ICON" HREF="https://sebadiaz.github.io/ricito/favicon.ico" />
 
     <!-- Plugin CSS -->
-    <link rel="stylesheet" href="http://rawgit.com/sebadiaz/ricito/master/device-mockups/device-mockups.min.css">
+    <link rel="stylesheet" href="https://sebadiaz.github.io/ricito/device-mockups/device-mockups.min.css">
 
     <!-- Custom styles for this template -->
-    <link href="http://rawgit.com/sebadiaz/ricito/master/css/new-age.css" rel="stylesheet">
+    <link href="https://sebadiaz.github.io/ricito/css/new-age.css" rel="stylesheet">
     <link href="css/new-age.css" rel="stylesheet">
 
   </head>
@@ -125,7 +125,7 @@
               </div>
               <div class="col-lg-5 my-auto">
                 <div class="device-container">
-                    <img src="http://rawgit.com/sebadiaz/ricito/master/img/pjm.jpg" width="320 90%"></img>
+                    <img src="https://sebadiaz.github.io/ricito/img/pjm.jpg" width="320 90%"></img>
                     
                   
                 </div>
@@ -149,7 +149,7 @@
                 <div class="col-lg-5 my-auto">
                   <div class="device-container">
                       
-                      <img src="http://rawgit.com/sebadiaz/ricito/master/img/wordcloud.png" width="320 90%"></img>
+                      <img src="https://sebadiaz.github.io/ricito/img/wordcloud.png" width="320 90%"></img>
                       <p> </p>
                     
                   </div>
@@ -179,7 +179,7 @@
                   <div class="device-container">
                     <h1 class="mb-5">Data Science.</h1>
                     <h4 class="mb-5">Data Analitycs.</h4>  
-                      <img src="http://rawgit.com/sebadiaz/ricito/master/img/analisys.jpg" width="90%"></img>
+                      <img src="https://sebadiaz.github.io/ricito/img/analisys.jpg" width="90%"></img>
                       
                   </div>
                 </div>
@@ -219,7 +219,7 @@
               <div class="col-lg-5 my-auto">
                   <div class="device-container">
                       <h4 class="mb-5">Data Modelling.</h4>
-                      <img src="http://rawgit.com/sebadiaz/ricito/master/img/arti.jpg" width="90%"></img>
+                      <img src="https://sebadiaz.github.io/ricito/img/arti.jpg" width="90%"></img>
                       
                   </div>
                 </div>
@@ -265,83 +265,83 @@
                 <div class="badges">
                     <h4 class="section-heading">Bank and Insurance</h4>
                     <p>
-                     <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_ING.png" alt="ING : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Banxico.gif" alt="Banxico : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Deutsche.png" alt="DKB : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_BOC.jpg" alt="Bank Of China : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_BES.png" alt="Banco Esperito Santo : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Santander.jpg" alt="Santander : Real time Regulatory and Limit Management ."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Unipol.png" alt="Unipol : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_BIDV.jpg" alt="Bank for Investment and Development of Vietnam, Military Bank : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_BIC.png" alt="BANCO BIC PORTUGUES : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_IBB.png" alt="INVESTITIONSBANK BERLIN : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Palatine.jpg" alt="BANQUE PALATINE : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Colpatria.svg" alt="COLPATRIA BANK : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Haspa.jpg" alt="Hamburger Sparkasse AG : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_CME.gif" alt="Chicago Mercantile Exchange : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Consip.png" alt="The Italian Ministry of Economy and Finance (Consip)  : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Victoria.png" alt="Victoria Mutual Building Society : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_NCB.jpg" alt="National Commercial Bank : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_NBD.png" alt="Emirates National Bank of Dubai : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_CommBank.jpg" alt="COMMERCIAL BANK OF QATAR : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Axis.png" alt="Axis Bank : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Riyad.png" alt="Riyad Bank : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_DB.png" alt="Deutsche Bank : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Nordbank.png" alt="HSH Nord Bank : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Alfa.gif" alt="Alpha Bank : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_HSBC.png" alt="HSBC : Massive Report Management."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_SocGen.png" alt="Societe Generale : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_BNP.png" alt="BNP : Massive Risk Management and Report."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Groupama.jpg" alt="Groupama : Portal and Content Management."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_SFIL.svg" alt="SFIL : Real time Report Management."/>
+                     <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_ING.png" alt="ING : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Banxico.gif" alt="Banxico : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Deutsche.png" alt="DKB : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_BOC.jpg" alt="Bank Of China : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_BES.png" alt="Banco Esperito Santo : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Santander.jpg" alt="Santander : Real time Regulatory and Limit Management ."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Unipol.png" alt="Unipol : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_BIDV.jpg" alt="Bank for Investment and Development of Vietnam, Military Bank : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_BIC.png" alt="BANCO BIC PORTUGUES : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_IBB.png" alt="INVESTITIONSBANK BERLIN : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Palatine.jpg" alt="BANQUE PALATINE : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Colpatria.svg" alt="COLPATRIA BANK : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Haspa.jpg" alt="Hamburger Sparkasse AG : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_CME.gif" alt="Chicago Mercantile Exchange : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Consip.png" alt="The Italian Ministry of Economy and Finance (Consip)  : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Victoria.png" alt="Victoria Mutual Building Society : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_NCB.jpg" alt="National Commercial Bank : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_NBD.png" alt="Emirates National Bank of Dubai : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_CommBank.jpg" alt="COMMERCIAL BANK OF QATAR : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Axis.png" alt="Axis Bank : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Riyad.png" alt="Riyad Bank : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_DB.png" alt="Deutsche Bank : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Nordbank.png" alt="HSH Nord Bank : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Alfa.gif" alt="Alpha Bank : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_HSBC.png" alt="HSBC : Massive Report Management."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_SocGen.png" alt="Societe Generale : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_BNP.png" alt="BNP : Massive Risk Management and Report."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Groupama.jpg" alt="Groupama : Portal and Content Management."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_SFIL.svg" alt="SFIL : Real time Report Management."/>
 
                 </p>
                 <h4 class="section-heading">Financial Software</h4>
                     <p>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Reuters.png" alt="Reuters : Massive Report Risk Management."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_ThomsonReuters.png" alt="Thomson Reuters : Massive Report Risk Management."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Turaz.png" alt="Turaz : Massive Report Risk Management."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Misys.png" alt="Misys : Massive Report Risk Management."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Finastra.jpg" alt="Finastra : Massive Report Risk Management and Cloud Solutions."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Reuters.png" alt="Reuters : Massive Report Risk Management."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_ThomsonReuters.png" alt="Thomson Reuters : Massive Report Risk Management."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Turaz.png" alt="Turaz : Massive Report Risk Management."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Misys.png" alt="Misys : Massive Report Risk Management."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Finastra.jpg" alt="Finastra : Massive Report Risk Management and Cloud Solutions."/>
                   </p>
                   <h4 class="section-heading">Social and Healthcare</h4>
                     <p>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Malakoff.png" alt="Mederic : Extranet and content Management Solutions."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_SanteLens.gif" alt="Sante Lens : Patients Management Solutions."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_CPage.jpg" alt="Gip CPage : Patients Management Solutions."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Plie.png" alt="PLIE Lyon : Content and Reports Management ."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Malakoff.png" alt="Mederic : Extranet and content Management Solutions."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_SanteLens.gif" alt="Sante Lens : Patients Management Solutions."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_CPage.jpg" alt="Gip CPage : Patients Management Solutions."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Plie.png" alt="PLIE Lyon : Content and Reports Management ."/>
                   </p>
                   <h4 class="section-heading">Government & Public Sector</h4>
                     <p>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Minefi.svg" alt="Ministere Economie et des Finances : Global Intranet, Content Management ."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_PremierMinistre.png" alt="Services du Premier ministre : Content Management and  Annouce of Public Market ."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Impots.jpg" alt="Impots : Automated Massive Data Transfer."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Douanes.jpg" alt="Douanes : Recruitment System."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Justice.png" alt="Ministere de la Justice : Official Mail Recording and Management System."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Francophonie.png" alt="Francophonie : Content Management System."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Minefi.svg" alt="Ministere Economie et des Finances : Global Intranet, Content Management ."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_PremierMinistre.png" alt="Services du Premier ministre : Content Management and  Annouce of Public Market ."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Impots.jpg" alt="Impots : Automated Massive Data Transfer."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Douanes.jpg" alt="Douanes : Recruitment System."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Justice.png" alt="Ministere de la Justice : Official Mail Recording and Management System."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Francophonie.png" alt="Francophonie : Content Management System."/>
                 </p>
                 <h4 class="section-heading">Software Services</h4>
                   <p>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Andersen.svg" alt="Accenture : Software Solutions ."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Accenture.svg" alt="Accenture : Software Solutions ."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Capgemini.jpg" alt="Capgemini : Software Solutions ."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Cegedim.jpg" alt="Cegedim : Software Solutions ."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Andersen.svg" alt="Accenture : Software Solutions ."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Accenture.svg" alt="Accenture : Software Solutions ."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Capgemini.jpg" alt="Capgemini : Software Solutions ."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Cegedim.jpg" alt="Cegedim : Software Solutions ."/>
                 </p>
                 <h4 class="section-heading">Manufacturing, Transports & Industrial Products</h4>
                   <p>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Ista.gif" alt="Comptage Immobilier Service : Measure Accountability Solution."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Schlumberger.png" alt="Schlumberger : Measure Accountability Solution."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Enedis.png" alt="Enedis : Manage Flows of Measure."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Fedex.png" alt="Fedex Slovakia : Transport Solution."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Remax.jpg" alt="ReMax Slovakia : Transport Solution."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Ista.gif" alt="Comptage Immobilier Service : Measure Accountability Solution."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Schlumberger.png" alt="Schlumberger : Measure Accountability Solution."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Enedis.png" alt="Enedis : Manage Flows of Measure."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Fedex.png" alt="Fedex Slovakia : Transport Solution."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Remax.jpg" alt="ReMax Slovakia : Transport Solution."/>
 
                 </p>
                 <h4 class="section-heading">Entertainment</h4>
                   <p>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Sony.png" alt="Sony Entertainment : Video Games Development."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_UbisoftAnnecy.jpg" alt="Ubisoft Annecy : Artificial Intelligence Solutions."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_Spirops.png" alt="SpiOps : Artificial Intelligence Solutions."/>
-                  <img width=130 src="http://rawgit.com/sebadiaz/ricito/master/img/Logo_MadMonkey.jpg" alt="Mad Monkey Studio : Game development."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Sony.png" alt="Sony Entertainment : Video Games Development."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_UbisoftAnnecy.jpg" alt="Ubisoft Annecy : Artificial Intelligence Solutions."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_Spirops.png" alt="SpiOps : Artificial Intelligence Solutions."/>
+                  <img width=130 src="https://sebadiaz.github.io/ricito/img/Logo_MadMonkey.jpg" alt="Mad Monkey Studio : Game development."/>
                   </p>
                 </div>
               </div>
@@ -487,10 +487,10 @@
         <p>&copy; Buisson Diaz Conseil 2018. All Rights Reserved.</p>
         <ul class="list-inline">
           <li class="list-inline-item">
-            <a href="http://rawgit.com/sebadiaz/ricito/master/confident.html">Privacy</a>
+            <a href="https://sebadiaz.github.io/ricito/confident.html">Privacy</a>
           </li>
           <li class="list-inline-item">
-            <a href="http://rawgit.com/sebadiaz/ricito/master/cgu.html">Terms</a>
+            <a href="https://sebadiaz.github.io/ricito/cgu.html">Terms</a>
           </li>
           <!-- <li class="list-inline-item">
             <a href="#">FAQ</a>
@@ -501,14 +501,14 @@
     <script src='https://www.google.com/recaptcha/api.js'></script>
     
     <!-- Bootstrap core JavaScript -->
-    <script src="http://rawgit.com/sebadiaz/ricito/master/vendor/jquery/jquery.min.js"></script>
-    <script src="http://rawgit.com/sebadiaz/ricito/master/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="https://sebadiaz.github.io/ricito/vendor/jquery/jquery.min.js"></script>
+    <script src="https://sebadiaz.github.io/ricito/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="http://rawgit.com/sebadiaz/ricito/master/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="https://sebadiaz.github.io/ricito/vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="http://rawgit.com/sebadiaz/ricito/master/js/new-age.min.js"></script>
+    <script src="https://sebadiaz.github.io/ricito/js/new-age.min.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117582469-1"></script>
