@@ -476,8 +476,10 @@
           <div class="container">
               <div class="row">
                 <div class="col-md-8 mx-auto">
-                  <h3 class="section-heading">Use Case: Sport Analysis</h3>
-                  <div class="fluid-row" id="header">
+                  <h3 class="section-heading"><a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                  Use Case: Sport Analysis
+  </a></h3>
+                  <div class="fluid-row" class="collapse" id="collapseExample">
 
 
 
