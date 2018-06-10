@@ -560,8 +560,7 @@ This map is based on the same orientation offered by the previous screen. By exa
 
 
 </div>
-            <p>Your browser does not support iframes.</p>
-          </iframe>
+           
         </div></div></div>
             <section>
     <footer>
