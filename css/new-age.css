@@ -4,6 +4,17 @@ body {
   height: 100%;
 }
 
+#home{
+	height:800px;
+	max-height:900;
+	width:100%;
+	color:white;
+	font-size:60px;
+	text-align:center;
+	padding-top:250px;
+	background-image:url('img/background.png');
+}
+
 body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
 }
