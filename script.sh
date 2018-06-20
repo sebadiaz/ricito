@@ -8,7 +8,7 @@ quote USER $USER
 quote PASS $PASSWD
 cd www
 bin
-mput index.php mail.php sitemap.xml robots.txt
+mput mail.php sitemap.xml robots.txt siteweb/index.html siteweb/approach.html siteweb/contact.html  siteweb/data.html siteweb/expertise.html siteweb/mentionslegales.html siteweb/privacy.html siteweb/software.html siteweb/sport.html siteweb/terms.html
 quit
 END_SCRIPT
 exit 0
