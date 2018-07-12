@@ -22,6 +22,8 @@ body {
     bottom: 3rem;
     z-index: 10;
     color: rgb(40, 28, 68);
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+
   }
   
   /* Declare heights because of positioning of img element */
@@ -29,6 +31,8 @@ body {
     height: 32rem;
     background-color: #777;
     color: rgb(40, 28, 68);
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+
 
   }
   .carousel-item > img {
