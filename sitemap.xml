@@ -9,8 +9,43 @@
 
 <url>
   <loc>http://www.buissondiaz.com/</loc>
-  <lastmod>2018-04-15T16:30:27+00:00</lastmod>
+   <changefreq>weekly</changefreq>
 </url>
 
+<url>
 
+      <loc>http://www.buissondiaz.com/expertise.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.buissondiaz.com/data.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>http://www.buissondiaz.com/software.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>http://www.buissondiaz.com/approach.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+    <url>
+
+      <loc>http://www.buissondiaz.com/contact.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
 </urlset>
